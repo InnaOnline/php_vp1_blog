@@ -1,5 +1,5 @@
 <?php
-//require '../vendor/autoload.php';
+require '../vendor/autoload.php';
 require '../base/config.php';
 
 ini_set('display_errors', 'on');
